@@ -1,0 +1,16 @@
+{
+  "name": "file-system-organiser",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "ignore": "^5.2.0",
+  "bin": {
+    "peppy": "main.js"
+  },
+  "description": ""
+}
